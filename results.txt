@@ -1,0 +1,87 @@
+ Datentr„ger in Laufwerk C: ist Windows
+ Volumeseriennummer: 5C86-58B6
+
+ Verzeichnis von C:\Users\Manfred\Documents\KnowHow\cli-1.3.0-rc.0\demo\dist_prod
+
+22.07.2017  21:47             1.510 inline.c6052a8f633896904d0f.bundle.js
+22.07.2017  21:47             5.805 main.5e2fc8a16fe44a92ac62.bundle.js
+22.07.2017  21:47            62.648 polyfills.1553fdd8173a081c720c.bundle.js
+22.07.2017  21:47           774.918 vendor.4b174670a7d2f3a749a7.bundle.js
+               4 Datei(en),        844.881 Bytes
+               0 Verzeichnis(se), 100.074.807.296 Bytes frei
+ Datentr„ger in Laufwerk C: ist Windows
+ Volumeseriennummer: 5C86-58B6
+
+ Verzeichnis von C:\Users\Manfred\Documents\KnowHow\cli-1.3.0-rc.0\demo\dist_prod_bo
+
+22.07.2017  21:48             1.510 inline.de58d6ca11189bfc43f6.bundle.js
+22.07.2017  21:48           282.004 main.ccb125c40afc8317de3e.bundle.js
+22.07.2017  21:48            62.551 polyfills.e7acbae487e4fd8d4e7d.bundle.js
+               3 Datei(en),        346.065 Bytes
+               0 Verzeichnis(se), 100.074.807.296 Bytes frei
+ Datentr„ger in Laufwerk C: ist Windows
+ Volumeseriennummer: 5C86-58B6
+
+ Verzeichnis von C:\Users\Manfred\Documents\KnowHow\cli-1.3.0-rc.0\demo\dist_prod_using
+
+22.07.2017  21:56             1.510 inline.0e27e4ed166274cc4811.bundle.js
+22.07.2017  21:56             7.596 main.94a27400222db27dbb30.bundle.js
+22.07.2017  21:56            62.648 polyfills.1553fdd8173a081c720c.bundle.js
+22.07.2017  21:56           966.549 vendor.1d05392536c2b513226b.bundle.js
+               4 Datei(en),      1.038.303 Bytes
+               0 Verzeichnis(se), 100.074.807.296 Bytes frei
+ Datentr„ger in Laufwerk C: ist Windows
+ Volumeseriennummer: 5C86-58B6
+
+ Verzeichnis von C:\Users\Manfred\Documents\KnowHow\cli-1.3.0-rc.0\demo\dist_prod_bo_using
+
+22.07.2017  22:01             1.510 inline.e08287c99d7225fd474e.bundle.js
+22.07.2017  22:01           414.422 main.d07217d9b7c86cd0825d.bundle.js
+22.07.2017  22:01            62.551 polyfills.e7acbae487e4fd8d4e7d.bundle.js
+               3 Datei(en),        478.483 Bytes
+               0 Verzeichnis(se), 100.074.807.296 Bytes frei
+#
+# Gzipped
+#
+ Datentr„ger in Laufwerk C: ist Windows
+ Volumeseriennummer: 5C86-58B6
+
+ Verzeichnis von C:\Users\Manfred\Documents\KnowHow\cli-1.3.0-rc.0\demo\dist_prod
+
+22.07.2017  22:01               903 inline.c6052a8f633896904d0f.bundle.js.gz
+22.07.2017  22:01             2.306 main.5e2fc8a16fe44a92ac62.bundle.js.gz
+22.07.2017  22:01            20.617 polyfills.1553fdd8173a081c720c.bundle.js.gz
+22.07.2017  22:01           170.372 vendor.4b174670a7d2f3a749a7.bundle.js.gz
+               4 Datei(en),        194.198 Bytes
+               0 Verzeichnis(se), 100.074.807.296 Bytes frei
+ Datentr„ger in Laufwerk C: ist Windows
+ Volumeseriennummer: 5C86-58B6
+
+ Verzeichnis von C:\Users\Manfred\Documents\KnowHow\cli-1.3.0-rc.0\demo\dist_prod_bo
+
+22.07.2017  22:01               900 inline.de58d6ca11189bfc43f6.bundle.js.gz
+22.07.2017  22:01            72.264 main.ccb125c40afc8317de3e.bundle.js.gz
+22.07.2017  22:01            20.580 polyfills.e7acbae487e4fd8d4e7d.bundle.js.gz
+               3 Datei(en),         93.744 Bytes
+               0 Verzeichnis(se), 100.074.807.296 Bytes frei
+ Datentr„ger in Laufwerk C: ist Windows
+ Volumeseriennummer: 5C86-58B6
+
+ Verzeichnis von C:\Users\Manfred\Documents\KnowHow\cli-1.3.0-rc.0\demo\dist_prod_using
+
+22.07.2017  22:01               902 inline.0e27e4ed166274cc4811.bundle.js.gz
+22.07.2017  22:01             2.865 main.94a27400222db27dbb30.bundle.js.gz
+22.07.2017  22:01            20.617 polyfills.1553fdd8173a081c720c.bundle.js.gz
+22.07.2017  22:01           199.797 vendor.1d05392536c2b513226b.bundle.js.gz
+               4 Datei(en),        224.181 Bytes
+               0 Verzeichnis(se), 100.074.807.296 Bytes frei
+ Datentr„ger in Laufwerk C: ist Windows
+ Volumeseriennummer: 5C86-58B6
+
+ Verzeichnis von C:\Users\Manfred\Documents\KnowHow\cli-1.3.0-rc.0\demo\dist_prod_bo_using
+
+22.07.2017  22:01               900 inline.e08287c99d7225fd474e.bundle.js.gz
+22.07.2017  22:01            95.718 main.d07217d9b7c86cd0825d.bundle.js.gz
+22.07.2017  22:01            20.580 polyfills.e7acbae487e4fd8d4e7d.bundle.js.gz
+               3 Datei(en),        117.198 Bytes
+               0 Verzeichnis(se), 100.074.795.008 Bytes frei
